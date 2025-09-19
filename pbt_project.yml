@@ -1,6 +1,6 @@
 name: tanner.crona
 description: productivity
-version: v1.3.0
+version: v1.3.0-SNAPSHOT
 author: null
 language: scala
 buildSystem: ''
